@@ -1,0 +1,2 @@
+# Projeto Drone
+Neste repositório encontram-se testes e estudos para desenvolvimento dos recursos de visão computacional que serão, posteriormente, incluídos no drone que está em construção no IFSP Campus São João da Boa Vista
